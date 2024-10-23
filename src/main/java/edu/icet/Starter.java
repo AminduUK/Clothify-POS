@@ -15,4 +15,4 @@ public class Starter extends Application {
         stage.setTitle("Login Page");
         stage.show();
     }
-}0
+}
